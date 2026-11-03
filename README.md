@@ -81,14 +81,14 @@ Me chamo João Victor Ramiro, tenho 19 anos e sou natural do Rio de Janeiro. Con
 --
 
 
-<a href="https://www.linkedin.com/in/SEU-USUARIO/" target="_blank">
+<a href="https://www.linkedin.com/in/joão-victor-ramiro" target="Linkedin">
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
     alt="LinkedIn"
-     align="left" 
-    alt="HTML"
-    title="HTML" 
+    align="left" 
     width="30px" 
     style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+    alt="LinkedIn"
+    
   />
 </a>
